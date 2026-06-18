@@ -1,5 +1,6 @@
 # Student Grade Management System
 
+
 students = {}
 
 while True:
