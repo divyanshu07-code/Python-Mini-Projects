@@ -47,3 +47,13 @@ cd projects
 
 # 4. Run any script of your choice
 python todo.py
+
+```
+Author
+Divyanshu
+
+Web Development Enthusiast | Problem Solver
+
+Thank you for visiting the repository.
+
+If you like this project, consider giving it a ⭐ and sharing your feedback.
