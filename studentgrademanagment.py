@@ -1,6 +1,4 @@
 # Student Grade Management System
-
-
 students = {}
 
 while True:
@@ -73,7 +71,7 @@ while True:
         else:
             for name, grade in students.items():
                 print(name, ":", grade)
-
+                
     # Exit
     elif choice == "5":
         print("Program Ended")
