@@ -1,3 +1,4 @@
+
 menu = {
     'Pizza': 40,
     'Pasta': 50,
